@@ -1,0 +1,7 @@
+smtp_address: smtp.office365.com  # [smtp server address]
+smtp_port: 587
+sender_login: sai.dadvai@accellor.com
+sender_password: Ryoiki@tenkai1
+sender_alias: [optional alias used to send the email (default = sender_login)]
+receiver_emails: sai.dadvai@accellor.com  #We can add multiple emails separated by comma
+
